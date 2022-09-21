@@ -1,4 +1,4 @@
-# React API'dan veri çekme birleştirme.
+# React API'dan veri çekme.
 
 ---
 
